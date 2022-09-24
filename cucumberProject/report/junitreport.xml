@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="0.444">
+    <testcase classname="Study Degree" name="I want to Study Doctor" time="0.103">
+        <system-out><![CDATA[Given Student should clear higer education..................................passed
+Given Student should clear higer-secondary education........................passed
+Given Need to clear NEET....................................................passed
+And Apply the medical college...............................................passed
+When Application get approval...............................................passed
+And Interview for Canditate.................................................passed
+And Cantidate clear in Interview............................................passed
+Then Student joined in Government medical college...........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Study Degree" name="I want to Study Engineering" time="0.005">
+        <system-out><![CDATA[Given Student should clear higer education..................................passed
+Given Student should clear higer-secondary education........................passed
+Given Buy the application form from Engineering college.....................passed
+And Fill the details and give back to admin office..........................passed
+When Application get approval...............................................passed
+And Interview for Canditate.................................................passed
+And Cantidate clear in Interview............................................passed
+Then Student joined in Government Engineering college.......................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Study Degree" name="I want to Study Arts" time="0.005">
+        <system-out><![CDATA[Given Student should clear higer education..................................passed
+Given Student should clear higer-secondary education........................passed
+Given Buy the application form from Any Arts college........................passed
+And Fill the details and give back to admin office..........................passed
+When Application get approval...............................................passed
+And Interview for Canditate.................................................passed
+And Cantidate clear in Interview............................................passed
+Then Student joined in Government Arts college..............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
